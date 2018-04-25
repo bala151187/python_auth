@@ -1,3 +1,10 @@
+# prerequisites
+docker-compose
+
+# How to run
+docker-compose build
+docker-compose up
+
 # Auth Service
 
 This service vends authentication `tokens` to valid `users` that have `key`s and
