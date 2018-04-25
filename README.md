@@ -2,7 +2,7 @@
 docker-compose
 
 # How to run
-docker-compose build
+docker-compose build   
 docker-compose up
 
 # Auth Service
